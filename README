@@ -5,3 +5,5 @@ initgraph(&gd,&gm,"C:\\TC\\BGI");
 
 libgraph must be installed to use graphics.h in ubuntu.
 http://zaher14.blogspot.com/2007/01/graphicsh-in-linux.html
+
+My first c program :-) So please bare with code quality.
