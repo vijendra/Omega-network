@@ -1,0 +1,7 @@
+Works in TurbC, in 32-bit machines.
+
+In this line, it should point to BGI folder of your TC installation.
+initgraph(&gd,&gm,"C:\\TC\\BGI");
+
+libgraph must be installed to use graphics.h in ubuntu.
+http://zaher14.blogspot.com/2007/01/graphicsh-in-linux.html
